@@ -1,0 +1,11 @@
+scikit-learn
+numpy 
+scipy
+uvicorn==0.22.0
+fastApi
+pandas
+pydantic
+gunicorn
+datetime
+uvloop
+httptools
